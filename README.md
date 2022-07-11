@@ -15,3 +15,9 @@ You will also need to type the following
 -Switched to Glowstone
 
 -Added Organization
+
+■UPDT#3:
+
+-Added Recipie
+
+-Made the sound play different while it has a target
