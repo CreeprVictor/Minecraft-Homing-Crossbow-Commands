@@ -9,3 +9,8 @@ You will also need to type the following
 ■UPDT#1:
 
 -Added Homing Rocket Particle & Sound
+
+■UPDT#2:
+
+-Switched to Glowstone
+-Added Orginization
