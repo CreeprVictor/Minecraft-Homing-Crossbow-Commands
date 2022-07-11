@@ -18,6 +18,6 @@ You will also need to type the following
 
 ■UPDT#3:
 
--Added Recipie
+-Added Recipe
 
 -Made the sound play different while it has a target
