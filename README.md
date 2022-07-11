@@ -13,4 +13,4 @@ You will also need to type the following
 ■UPDT#2:
 
 -Switched to Glowstone
--Added Orginization
+-Added Organization
